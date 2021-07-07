@@ -1,0 +1,121 @@
+# Query: background
+# ContextLines: 1
+
+30 results - 1 file
+
+style.css:
+   18  ::-webkit-scrollbar-track {
+   19:     background: #f1f1f1;
+   20  }
+   21  ::-webkit-scrollbar-thumb {
+   22:     background: #888;
+   23  }
+
+   25  ::-webkit-scrollbar-thumb:hover {
+   26:     background: #555;
+   27  }
+
+   65      height: 3px;
+   66:     background: #111;
+   67      transform: translateX(-50%);
+
+   75      padding: 0 5px;
+   76:     background: #fff;
+   77      transform: translateX(-50%);
+
+   90      padding: 15px 0;
+   91:     background: crimson;
+   92  }
+
+  139      width: 42px;
+  140:     background: crimson;
+  141      right: 30px;
+
+  167      display: flex;
+  168:     background: url("https://cdn.discordapp.com/attachments/852755186316345381/861167823275163658/PicsArt_07-04-02.23.11.jpeg") no-repeat center;
+  169      height: 100vh;
+
+  171      min-height: 500px;
+  172:     background-size: cover;
+  173:     background-attachment: fixed;
+  174      font-family: 'Ubuntu', sans-serif;
+
+  203      display: inline-block;
+  204:     background: crimson;
+  205      color: #fff;
+
+  215      color: crimson;
+  216:     background: none;
+  217  }
+
+  247      display: inline-block;
+  248:     background: crimson;
+  249      color: #fff;
+
+  259      color: crimson;
+  260:     background: none;
+  261  }
+
+  265      color:#fff;
+  266:     background: #111;
+  267  }
+
+  269  .teams .title::before{
+  270:     background: #fff;
+  271  }
+
+  273  .teams .title::after{
+  274:     background: #111;
+  275      content: "what i provide";
+
+  278      width: calc(33% - 20px);
+  279:     background: #222;
+  280      text-align: center;
+
+  286  .services .serv-content .card:hover{
+  287:     background: crimson;
+  288  }
+
+  326      display: inline-block;
+  327:     background: crimson;
+  328      color: #fff;
+
+  338      color: crimson;
+  339:     background: none;
+  340  }
+
+  356      width: 100%;
+  357:     background: lightgrey;
+  358      position: relative;
+
+  365      top: 0;
+  366:     background: crimson;
+  367  }
+
+  388  .teams .carousel .card{
+  389:     background: #222;
+  390      border-radius: 6px;
+
+  396  .teams .carousel .card:hover{
+  397:     background: crimson;
+  398  }
+
+  443  .owl-dot:hover{
+  444:     background: crimson!important;
+  445  }
+
+  533    flex-wrap: nowrap;
+  534:   background: crimson;
+  535    border: 2px solid crimson;
+
+  539    color: crimson;
+  540:   background: none;
+  541  }
+
+  543  footer{
+  544:     background: #111;
+  545      padding: 15px 23px;
+
+  584          top: 0;
+  585:         background: #111;
+  586          text-align: center;

@@ -1,0 +1,54 @@
+# Query: info
+# ContextLines: 1
+
+12 results - 2 files
+
+index.html:
+  109                      <div class="bars">
+  110:                         <div class="info">
+  111                              <span>HTML</span>
+
+  116                      <div class="bars">
+  117:                         <div class="info">
+  118                              <span>CSS</span>
+
+  123                      <div class="bars">
+  124:                         <div class="info">
+  125                              <span>JavaScript</span>
+
+  130                      <div class="bars">
+  131:                         <div class="info">
+  132                              <span>Visual Design</span>
+
+  137                      <div class="bars">
+  138:                         <div class="info">
+  139                              <span>Communication</span>
+
+  162                              <i class="fas fa-user"></i>
+  163:                             <div class="info">
+  164                                  <div class="head">Name</div>
+
+  173                              <i class="fas fa-map-marker-alt"></i>
+  174:                             <div class="info">
+  175                                  <div class="head">Address</div>
+
+  180                              <i class="fas fa-envelope"></i>
+  181:                             <div class="info">
+  182                                  <div class="head">Email</div>
+
+style.css:
+  340  }
+  341: .skills .skills-content .right .info{
+  342      display: flex;
+
+  466  }
+  467: .contact .contact-content .row .info{
+  468      margin-left: 30px;
+
+  473  }
+  474: .contact .contact-content .info .head{
+  475      font-weight: 500;
+  476  }
+  477: .contact .contact-content .info .sub-title{
+  478      color: #333;
+  
